@@ -1,3 +1,10 @@
 GENERAL PLANNING
 
 ---ABSTRACT---
+The goal of the project is to create a program that can
+self generate poems.  The implementation will be based around a 
+deep neural network, which will take in poems as training data
+and attempt to learn to write poems on its own.  Additionally, 
+a possible extension of the program would be to complete a poem
+that a user inputs to start.
+--------------
